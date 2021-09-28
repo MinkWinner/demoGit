@@ -4,7 +4,8 @@ git config --global user.name "Nguyen"
 git config --global user.email "..."
 git config user.username "John Doe" (ten rieng cho 1 repository, phải vào cd vào local repository)
 /*------------------------------------------------
-+Kiểm tra sau khi khai báo name, email git config --global user.name (kiem tra ten)
++Kiểm tra sau khi khai báo name, email
+git config --global user.name (kiem tra ten)
 
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -50,6 +51,7 @@ DEV/thành viên của dự án (Người tham gia vào repository):
 
 - Đẩy file lên server (remote repo trên github)
     git push
+
 
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
